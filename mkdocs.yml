@@ -1,1 +1,12 @@
-site_name: My Docs
+site_name: "Project Documentation"
+theme:
+  name: "material"
+
+nav:
+  - Home: index.md
+  - Code Formatting: formatting.md
+  - Project Architecture: architecture.md
+  - Git Conventions: git-conventions.md
+  - Unity Guidelines: unity-guidelines.md
+  - Code Style: code-style.md
+  - Quality Control: quality-control.md
